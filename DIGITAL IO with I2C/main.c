@@ -5,6 +5,7 @@ Topic :         Digital IO with I2C (interfaced with IO expander PCF8574A with I
 Filename:       I2C Master Write Rev 0.0
 
 Author's Note: Please download the attached datasheet of the PCF8574A for pin layout and details.
+Please add the preprocessor directories the project options.
 Ex:     C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.5\arm\CMSIS\Include
         C:\TI-CMSIS-Devices-8636\TI\LM4F\Include
 These are the locations where the CMSIS library files are available.
